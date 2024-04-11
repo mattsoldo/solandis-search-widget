@@ -1,0 +1,1 @@
+# solandis-search-widget
